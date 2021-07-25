@@ -9,7 +9,7 @@ Here are some coding languages I code/coded in:
 - Python
 - Brainfuck (that's the one with just <>+-[],.)
 - Pascal
-- Scratch 2 (I started with Scratch when I was about 10, I think, which helped me understand the general basic concepts of coding.)
+- Scratch 2 (only when I started learning coding, which was when I was about 10 or 11, I think)
 
 Please take a look around!
 
